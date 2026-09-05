@@ -1,4 +1,4 @@
-# Personalised Messaging POC
+# Personalised Messaging Engine POC
 
 > **An AI-powered personalized messaging platform for large-scale Phrama company.**
 
